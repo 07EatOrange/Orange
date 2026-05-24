@@ -7,3 +7,5 @@
 教程资源
 1.AI Agent时代零基础入门
 【从零开始用国内网络，跑通Claude Code等一切Agent。全程录屏，覆盖三大操作系统，纳米级攻略-哔哩哔哩】 https://b23.tv/eeucyEI
+
+【Git+Github核心概念大串讲，从零到一全攻略，详细实战教程-哔哩哔哩】 https://b23.tv/ZWRUqFs
